@@ -1,0 +1,7 @@
+# Generados y archivos locales
+/target/
+.idea/
+.vscode/
+*.iml
+*.log
+.env

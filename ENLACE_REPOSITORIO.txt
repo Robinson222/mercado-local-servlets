@@ -1,0 +1,13 @@
+EVIDENCIA GA7-220501096-AA2-EV02 - MODULO SERVLETS/JSP
+
+Repositorio Git portable incluido: Mercado_Local_Servlets.gitbundle
+Rama: main
+Clonar desde el bundle con:
+  git clone Mercado_Local_Servlets.gitbundle mercado-local-servlets
+
+URL publico de GitHub: pendiente de crear para esta evidencia. El repositorio mercado-local-flask corresponde a otra entrega y no debe usarse para enlazar este proyecto.
+
+Para publicar: cree un repositorio vacio llamado mercado-local-servlets en la cuenta Robinson222, copie la URL Git que GitHub muestre y ejecute en la carpeta del proyecto:
+  git remote add origin <URL_GIT_COPIADA_DE_GITHUB>
+  git push -u origin main
+Luego reemplace esta nota por la URL web del repositorio.
